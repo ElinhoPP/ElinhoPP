@@ -4140,5 +4140,3 @@ if((illusion_vampire == 8 || checkquest(14671) == 1) && 10 > countitem(25268)){ 
 }
 end;
 }
-
-gef_d01_i	mapflag	loadevent
